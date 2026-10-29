@@ -1,5 +1,3 @@
-edit.blade.php
-
 <x-layouts.app title="Edit Dokter">
 
     {{-- Header --}}
@@ -152,5 +150,3 @@ edit.blade.php
     </div>
 
 </x-layouts.app>
-
-Menampilkan edit.blade.php.
